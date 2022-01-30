@@ -27,3 +27,8 @@ Background:
 ```
 To create password authentication system but instead of typing the password, the user needs to select a sequence of randomly placed images in correct order which was set by the user earlier 
 ```
+
+# WorkFlow
+> 1. Understand authentication systems and protocols
+> 2. Understanding CAPTCHA verification works
+> 3. Mixing 1 and 2 may work as authentication instead of human verification.
